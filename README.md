@@ -1,3 +1,5 @@
+Project chosen — I am building project #5 - Movie Ticket Booking
+
 # fastapi-movie-ticket-booking-app
 FastAPI-powered application for movie listings and ticket booking, enabling movie browsing, fetching movie details and booking management.
 
